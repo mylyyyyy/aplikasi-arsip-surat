@@ -68,7 +68,7 @@ php artisan serve
 Screenshot Aplikasi
 Halaman Login & Register
 <p align="center">
-<img src="dokumentasi/login.jpg" width="300" alt="Login Screenshot"/>
+<img src="dokumentasi/login.JPG" width="300" alt="Login Screenshot"/>
 <img src="dokumentasi/register.jpg" width="300" alt="Register Screenshot"/>
 </p>
 
