@@ -69,34 +69,34 @@ Screenshot Aplikasi
 Halaman Login & Register
 <p align="center">
 <img src="dokumentasi/login.JPG" width="300" alt="Login Screenshot"/>
-<img src="dokumentasi/register.jpg" width="300" alt="Register Screenshot"/>
+<img src="dokumentasi/register.JPG" width="300" alt="Register Screenshot"/>
 </p>
 
 Halaman About
 <p align="center">
-<img src="dokumentasi/about.jpg" width="400" alt="About Desktop"/>
+<img src="dokumentasi/about.JPG" width="400" alt="About Desktop"/>
 </p>
 
 Dashboard & Manajemen Arsip
 Dashboard
 <p align="center">
-<img src="dokumentasi/surat.jpg" width="400" alt="Dashboard Desktop"/>
+<img src="dokumentasi/surat.JPG" width="400" alt="Dashboard Desktop"/>
 </p>
 
 Fungsionalitas Arsip
 <p align="center">
-<img src="dokumentasi/screate.jpg" width="300" alt="Create Surat"/>
-<img src="dokumentasi/slihat.jpg" width="300" alt="Lihat Surat"/>
+<img src="dokumentasi/screate.JPG" width="300" alt="Create Surat"/>
+<img src="dokumentasi/slihat.JPG" width="300" alt="Lihat Surat"/>
 </p>
 
 Manajemen Kategori
 <p align="center">
-<img src="dokumentasi/kategori.jpg" width="400" alt="Index Kategori"/>
-<img src="dokumentasi/kcreatekategori.jpg" width="400" alt="Create Kategori"/>
-<img src="dokumentasi/kedit.jpg" width="400" alt="Lihat Kategori"/>
+<img src="dokumentasi/kategori.JPG" width="400" alt="Index Kategori"/>
+<img src="dokumentasi/kcreatekategori.JPG" width="400" alt="Create Kategori"/>
+<img src="dokumentasi/kedit.JPG" width="400" alt="Lihat Kategori"/>
 </p>
 
 Halaman Profil
 <p align="center">
-<img src="dokumentasi/about.jpeg" width="400" alt="Profile"/>
+<img src="dokumentasi/about.JPG" width="400" alt="Profile"/>
 </p>
