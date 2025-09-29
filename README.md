@@ -92,7 +92,7 @@ Fungsionalitas Arsip
 Manajemen Kategori
 <p align="center">
 <img src="dokumentasi/kategori.JPG" width="400" alt="Index Kategori"/>
-<img src="dokumentasi/kcreatekategori.JPG" width="400" alt="Create Kategori"/>
+<img src="dokumentasi/kcreate.JPG" width="400" alt="Create Kategori"/>
 <img src="dokumentasi/kedit.JPG" width="400" alt="Lihat Kategori"/>
 </p>
 
