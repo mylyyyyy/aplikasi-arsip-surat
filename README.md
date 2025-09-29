@@ -1,12 +1,12 @@
 <p align="start" style="display: flex; align-items: center; gap: 10px;">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/trjgdyan/arsip-app/main/public/images/logo%2520arsip.png" width="80" alt="Arsipku Logo">
+
 <span style="font-size: 2rem; font-weight: bold;">ARSIPKU</span>
 </p>
 
-Tujuan
+<h1>Tujuan</h1>
 Aplikasi Arsipku dibuat untuk mempermudah pengelolaan arsip digital secara terstruktur, efisien, dan mudah diakses oleh pengguna. Tujuan utamanya adalah untuk memastikan penyimpanan dokumen menjadi lebih rapi, aman, serta mudah dicari kembali saat dibutuhkan.
 
-Fitur
+<h1>Fitur</h1>
 Registrasi dan Login Pengguna
 
 Dashboard Ringkasan Arsip
@@ -31,7 +31,7 @@ Halaman "About" untuk Melihat Informasi Developer
 
 Logout
 
-Cara Menjalankan Aplikasi
+<h1>Cara Menjalankan Aplikasi</h1>
 Clone Repository
 
 git clone [https://github.com/mylyyyyy/aplikasi-arsip-surat.git](https://github.com/mylyyyyy/aplikasi-arsip-surat.git)
@@ -68,32 +68,32 @@ php artisan serve
 Screenshot Aplikasi
 Halaman Login & Register
 <p align="center">
-<img src="dokumentasi/login.jpeg" width="300" alt="Login Screenshot"/>
-<img src="dokumentasi/register.jpeg" width="300" alt="Register Screenshot"/>
+<img src="dokumentasi/login.jpg" width="300" alt="Login Screenshot"/>
+<img src="dokumentasi/register.jpg" width="300" alt="Register Screenshot"/>
 </p>
 
 Halaman About
 <p align="center">
-<img src="dokumentasi/about.jpeg" width="400" alt="About Desktop"/>
+<img src="dokumentasi/about.jpg" width="400" alt="About Desktop"/>
 </p>
 
 Dashboard & Manajemen Arsip
 Dashboard
 <p align="center">
-<img src="dokumentasi/surat.jpeg" width="400" alt="Dashboard Desktop"/>
+<img src="dokumentasi/surat.jpg" width="400" alt="Dashboard Desktop"/>
 </p>
 
 Fungsionalitas Arsip
 <p align="center">
-<img src="dokumentasi/screate.jpeg" width="300" alt="Create Surat"/>
-<img src="dokumentasi/slihat.jpeg" width="300" alt="Lihat Surat"/>
+<img src="dokumentasi/screate.jpg" width="300" alt="Create Surat"/>
+<img src="dokumentasi/slihat.jpg" width="300" alt="Lihat Surat"/>
 </p>
 
 Manajemen Kategori
 <p align="center">
-<img src="dokumentasi/kategori.jpeg" width="400" alt="Index Kategori"/>
-<img src="dokumentasi/kcreatekategori.jpeg" width="400" alt="Create Kategori"/>
-<img src="dokumentasi/kedit.jpeg" width="400" alt="Lihat Kategori"/>
+<img src="dokumentasi/kategori.jpg" width="400" alt="Index Kategori"/>
+<img src="dokumentasi/kcreatekategori.jpg" width="400" alt="Create Kategori"/>
+<img src="dokumentasi/kedit.jpg" width="400" alt="Lihat Kategori"/>
 </p>
 
 Halaman Profil
